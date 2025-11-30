@@ -1,0 +1,6 @@
+@AequiForce.Api_HostAddress = http://localhost:5249
+
+GET {{AequiForce.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
